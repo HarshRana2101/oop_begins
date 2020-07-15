@@ -4,7 +4,7 @@ public class Main {
         Car bmw = new Car();
         Car Jeep =new Car();
         bmw.setModel("330 xdrive");
-
+        System.out.println("Model is :"+bmw.getModel());
 
     }
 }
